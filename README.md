@@ -3,6 +3,7 @@
 Welcome to the **Full Stack Project** by Daniel Amos! 🚀 This project involves building a **Banking System** for deposit and withdrawal operations, 
 including a seamless front-end and back-end architecture. 
 The system interacts with a third-party provider to simulate real-life banking operations.
+🔮💲The services are intended for illustration purposes only and in the future when the site goes live there will be a change to real banking services.
 
 ## Technologies Used ⚙️
 
@@ -45,7 +46,7 @@ npm run dev
 Ensure you have SQL Server installed.
 Use the connection string located in appsettings.json for database access:
 "DbConfig": {
-  "ConnectionString": "Server=DESKTOP-RJQ201T;Database=DanielAmosDB;Trusted_Connection=True;TrustServerCertificate=True;"
+  "ConnectionString": "Server=DESKTOP-RJQ2O1T;Database=DanielAmosDataB;Trusted_Connection=True;TrustServerCertificate=True;"
 }
 Create the database and apply the required migrations using your SQL management tool.
 5. Test the Application
