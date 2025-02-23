@@ -27,7 +27,7 @@ The system interacts with a third-party provider to simulate real-life banking o
 ### 1. **Clone the repository**
    Start by cloning this repository to your local machine:
    ```bash
-   git clone https://github.com/danielamos/fullstack-project.git
+  git clone (https://github.com/DanielAmosA/ED-MagicFunds.git)
 
 2. Backend Setup (NET Core)
 Navigate to the Backend folder.
